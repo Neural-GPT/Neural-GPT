@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and machine learning
 - 🌱 I’m currently learning CS from Harvard CS50 and ML from Coursera ML Specialization
 - 💞️ I’m looking to collaborate on machine learning and possibly cs projects when I think I'm ready enough to do so
-- 📫 You can contact me via this GitHub profile, my Instagram is "sciencefusionlab"
+- 📫 You can contact me via this GitHub profile.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I just turned 18
 
