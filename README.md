@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neural-GPT (Arjun) 
 - 👀 I’m interested in machine learning and computer science
-- 🌱 I’m currently learning Deep Learning through Fast AI
+- 🌱 I’m currently learning Deep Learning through Deep Learning Specialization
 - 💞️ I’m looking to collaborate on machine learning and possibly cs projects when I think I'm ready enough to do so
 - 📫 You can contact me via this GitHub profile 
 - 😄 Pronouns: He/him
