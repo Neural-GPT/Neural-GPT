@@ -29,17 +29,8 @@ class Arjun:
 **Languages:** Python · C 
 **ML / DL:** PyTorch · TensorFlow · Scikit-learn · XGBoost · HuggingFace  
 **CV:** OpenCV · MobileNetV2 · Wide ResNet50 · PatchCore  
-**NLP / RAG:** LangChain · FAISS · PubMed APIs  
+**NLP / RAG:** LangChain · FAISS · MMR
 **Tools:** Jupyter · Git · Android · NumPy · Pandas  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neural-GPT&show_icons=true&hide_border=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neural-GPT&layout=compact&hide_border=true&theme=default" height="160"/>
-</p>
 
 ---
 
