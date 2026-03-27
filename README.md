@@ -16,7 +16,7 @@ class Arjun:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🎓 Aviothic2.0_ActoProtector](https://github.com/Neural-GPT/Aviothic2.0_ActoProtector) | Student attendance automation via CV pipeline — MobileNetV2 backbone deployed on Android | C++, TensorFlow |
+| [🎓 Aviothic2.0_ActoProtector](https://github.com/Neural-GPT/Aviothic2.0_ActoProtector) | Student attendance automation via CV pipeline — MobileNetV2 backbone deployed on Android | Dart, TensorFlow |
 | [🔬 Industrial Anomaly Detection](https://github.com/Neural-GPT/Industrial-Anomaly-Detection-With-PatchCore) | PatchCore on MVTEC Dataset — Wide ResNet50, Coreset subsampling, K-means distance | Python, PyTorch |
 | [🏥 Medical RAG Chatbot](https://github.com/Neural-GPT/Medical-Rag-Chatbot) | RAG-based chatbot for medical queries, trained on PubMed diabetes documents | LangChain, HuggingFace |
 | [📊 Kaggle Titanic — Top 8%](https://github.com/Neural-GPT/Kaggle-Titanic) | XGBoost model — 79.425% accuracy, rank 998 out of 13k on public leaderboard | XGBoost, Scikit-learn |
@@ -27,9 +27,13 @@ class Arjun:
 ## 🛠 Tech Stack
 
 **Languages:** Python · C
-**ML / DL:** PyTorch · TensorFlow · Scikit-learn · XGBoost · HuggingFace  
-**CV:** OpenCV · MobileNetV2 · Wide ResNet50 · PatchCore  
+
+**ML / DL:** PyTorch · TensorFlow · Scikit-learn · XGBoost · HuggingFace
+
+**CV:** OpenCV · MobileNetV2 · Wide ResNet50 · PatchCore
+
 **NLP / RAG:** LangChain · FAISS · MMR
+
 **Tools:** Jupyter · Git · Android · NumPy · Pandas  
 
 ---
