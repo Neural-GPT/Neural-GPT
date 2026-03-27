@@ -27,6 +27,7 @@ class Arjun:
 ## 🛠 Tech Stack
 
 **Languages:** Python · C 
+
 **ML / DL:** PyTorch · TensorFlow · Scikit-learn · XGBoost · HuggingFace  
 **CV:** OpenCV · MobileNetV2 · Wide ResNet50 · PatchCore  
 **NLP / RAG:** LangChain · FAISS · MMR
