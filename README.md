@@ -8,6 +8,7 @@ class Arjun:
     interests    = ["CV", "Transfer Learning", "Anomaly Detection", "RAG Systems"]
     contact      = "titanxarestren@gmail.com"
     open_to      = "ML & CS collaborations"
+    internship   = "Research Internship in NLP RAG at IIT Bhubaneshwar"
 ```
 
 ---
