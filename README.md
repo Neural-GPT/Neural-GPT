@@ -4,7 +4,7 @@
 class Arjun:
     pronouns     = "he/him"
     role         = "Machine Learning Student"
-    learning     = ["Computer Vision (CS231n)", "Deep Learning", "MLOps"]
+    learning     = ["Computer Vision", "Deep Learning", "MLOps"]
     interests    = ["CV", "Transfer Learning", "Anomaly Detection", "RAG Systems"]
     contact      = "titanxarestren@gmail.com"
     open_to      = "ML & CS collaborations"
