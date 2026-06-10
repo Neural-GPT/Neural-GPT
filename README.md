@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arjun+%F0%9F%91%8B;ML+%26+CV+Enthusiast;Building+things+that+see+%26+understand" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Arjun+%F0%9F%91%8B;ML+%26+CV+Enthusiast;Building+things+that+see+%26+understand" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -100,7 +97,6 @@ I'm drawn to the intersection of perception and intelligence — whether that's 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Neural-GPT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neural-GPT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
 
 </div>
 
@@ -109,7 +105,3 @@ I'm drawn to the intersection of perception and intelligence — whether that's 
 ## 📫 Let's Connect
 
 I'm always happy to talk about ML research, collaborate on interesting problems, or just geek out over a paper. Drop me a line at **titanxarestren@gmail.com** — open to ML, CV, and NLP projects.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
-</div>
