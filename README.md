@@ -24,14 +24,13 @@ class Arjun:
     pronouns     = "he/him"
     role         = "Machine Learning Student"
     learning     = ["Computer Vision", "Deep Learning", "MLOps"]
-    interests    = ["CV", "Transfer Learning", "Anomaly Detection", "RAG Systems"]
+    interests    = ["CV", "Transfer Learning", "Natural Language Processing", "Transformers"]
     contact      = "titanxarestren@gmail.com"
     open_to      = "ML & CS collaborations"
-    internship   = "Research Internship — NLP/RAG @ IIT Bhubaneswar"
+    internship   = "Research Internship: NLP/RAG @ IIT Bhubaneswar"
 ```
 
-I'm drawn to the intersection of perception and intelligence — whether that's teaching a model to spot defects in industrial parts, building systems that answer medical questions from research literature, or figuring out why a transformer works better than expected. Currently deepening my understanding of CV pipelines and MLOps, one experiment at a time.
-
+I'm drawn to the intersection of perception and intelligence, whether that's teaching a model to spot defects in industrial parts, building systems that answer medical questions from research literature, or figuring out why a transformer works better than expected. Currently strengthening my NLP fundamentals.
 ---
 
 ## 🚀 Projects
@@ -43,10 +42,10 @@ I'm drawn to the intersection of perception and intelligence — whether that's 
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| [**Aviothic 2.0 — ActoProtector**](https://github.com/Neural-GPT/Aviothic2.0_ActoProtector) | Student attendance automation via CV pipeline — MobileFaceNetV2 backbone deployed on Android | `Dart` `TensorFlow` |
-| [**Industrial Anomaly Detection**](https://github.com/Neural-GPT/Industrial-Anomaly-Detection-With-PatchCore) | PatchCore on MVTEC Dataset — Wide ResNet50, Coreset subsampling, K-means distance scoring | `Python` `PyTorch` |
+| [**Aviothic 2.0: ActoProtector**](https://github.com/Neural-GPT/Aviothic2.0_ActoProtector) | Student attendance automation via CV pipeline using MobileFaceNetV2 backbone deployed on Android | `Dart` `TensorFlow` |
+| [**Industrial Anomaly Detection**](https://github.com/Neural-GPT/Industrial-Anomaly-Detection-With-PatchCore) | PatchCore on MVTEC Dataset using Wide ResNet50, Coreset subsampling, K-means distance scoring | `Python` `PyTorch` |
 | [**Medical RAG Chatbot**](https://github.com/Neural-GPT/Medical-Rag-Chatbot) | RAG-based chatbot for medical queries, trained on PubMed diabetes documents | `LangChain` `HuggingFace` |
-| [**Kaggle Titanic — Top 8%**](https://github.com/Neural-GPT/Kaggle-Titanic) | XGBoost model — 79.425% accuracy, rank 998/13k on public leaderboard | `XGBoost` `Scikit-learn` |
+| [**Kaggle Titanic — Top 8%**](https://github.com/Neural-GPT/Kaggle-Titanic) | XGBoost model: 79.425% accuracy, rank 998/13k on public leaderboard | `XGBoost` `Scikit-learn` |
 | [**NeoForge**](https://github.com/Neural-GPT/NeoForge) | Lightweight Python library on NumPy for Linear & Logistic Regression with utilities | `NumPy` `Python` |
 
 </details>
