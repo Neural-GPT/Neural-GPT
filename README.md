@@ -24,10 +24,10 @@
   Raw URL format: https://raw.githubusercontent.com/<user>/<user>/main/assets/radar-scan.svg
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Neural-GPT/Neural-GPT/main/assets/radar-scan.svg" width="260" alt="commit radar"/>
+  <img src="https://raw.githubusercontent.com/Neural-GPT/Neural-GPT/main/assets/radar-tachometer.svg" width="100%" alt="commit radar and tachometer"/>
   <br/>
-  <sub>// live commit radar — decorative sweep, blips are fixed pings</sub>
 </div>
+
 
 ---
 
