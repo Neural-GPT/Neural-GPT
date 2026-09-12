@@ -130,16 +130,11 @@ I'm drawn to the intersection of perception and intelligence — teaching a mode
 
 ## `> contribution_snake.exe`
 
-<!--
-  Real animation, not decorative: this is the well-known
-  "snake eats your contribution graph" GitHub Action (Platane/snk).
-  It regenerates on a schedule from your actual commit history.
-  Workflow file included separately — see setup notes below.
--->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Neural-GPT/Neural-GPT/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
-</div>
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ## `> achievements --unlocked`
