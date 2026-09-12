@@ -93,10 +93,10 @@ I'm drawn to the intersection of perception and intelligence, whether that's tea
 
 ## 📊 GitHub Stats
 
+<!-- Snake Game Repo View -->
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neural-GPT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
