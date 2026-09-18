@@ -118,7 +118,7 @@ I'm drawn to the intersection of perception and intelligence — teaching a mode
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neural-GPT&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFF2&text_color=C9D1D9&border_radius=8" height="165"/>
+<img src="github-readme-stats-roan-mu-47.vercel.app/api/top-langs/?username=Neural-GPT&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFF2&text_color=C9D1D9&border_radius=8" height="165"/>
 
 <br/><br/>
 
